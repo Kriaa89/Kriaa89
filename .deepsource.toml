@@ -1,0 +1,74 @@
+version = 1
+
+[[analyzers]]
+name = "ansible"
+
+[[analyzers]]
+name = "docker"
+
+[[analyzers]]
+name = "javascript"
+
+[[analyzers]]
+name = "python"
+
+  [analyzers.meta]
+  runtime_version = "3.x.x"
+
+[[analyzers]]
+name = "scala"
+
+[[analyzers]]
+name = "sql"
+
+[[analyzers]]
+name = "test-coverage"
+
+[[analyzers]]
+name = "csharp"
+
+[[analyzers]]
+name = "go"
+
+  [analyzers.meta]
+  import_root = "github.com/Kriaa89/Kriaa89"
+
+[[analyzers]]
+name = "kotlin"
+
+  [analyzers.meta]
+  runtime_version = "1.8"
+  language_version = "1.7"
+
+[[analyzers]]
+name = "ruby"
+
+[[analyzers]]
+name = "secrets"
+
+[[analyzers]]
+name = "swift"
+
+[[analyzers]]
+name = "cxx"
+
+[[analyzers]]
+name = "java"
+
+  [analyzers.meta]
+  runtime_version = "21"
+
+[[analyzers]]
+name = "php"
+
+[[analyzers]]
+name = "rust"
+
+  [analyzers.meta]
+  msrv = "stable"
+
+[[analyzers]]
+name = "shell"
+
+[[analyzers]]
+name = "terraform"
