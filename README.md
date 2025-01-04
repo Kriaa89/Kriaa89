@@ -15,14 +15,21 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## 💞️ Looking to Collaborate On  
 - Python and Flask-based projects  
-- Database optimization and design  
+- Database optimization and design
 
 ## 📫 How to Reach Me  
 - Email: https://www.linkedin.com/in/abdallah-yessine-kriaa-4355562b2/
 - LinkedIn: abdallahkriaa0@gmail.com
+  
+## 💼 Skills  
+- Python
+- Flask
+- HTML & CSS
+- MySQL
+- SQL
 
 ## 😄 Pronouns  
-- he  
+- he  / him
 
 ## ⚡ Fun Fact  
 - I’m fascinated by the seamless interaction between web applications and databases, and I love experimenting with user-centric designs!  
