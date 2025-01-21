@@ -18,8 +18,8 @@ Welcome to my GitHub profile! Here's a bit about me:
 - Database optimization and design
 
 ## 📫 How to Reach Me  
-- Email: https://www.linkedin.com/in/abdallah-yessine-kriaa-4355562b2/
-- LinkedIn: abdallahkriaa0@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abdallah-yessine-kriaa-4355562b2/
+- Email: abdallahkriaa0@gmail.com
   
 ## 💼 Skills  
 - Python
@@ -27,6 +27,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 - HTML & CSS
 - MySQL
 - SQL
+- Boostrap
 
 ## 😄 Pronouns  
 - he  / him
