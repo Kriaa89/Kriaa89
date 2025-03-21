@@ -18,32 +18,30 @@ I'm a passionate Full Stack Developer with a strong foundation in web developmen
 | 💻 Languages | 🛠 Frameworks & Libraries | 🗄️ Databases | 🔧 Tools & Platforms |
 |--------------|---------------------------|--------------|----------------------|
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) <br> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) <br> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) <br> ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) <br> ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) <br> ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) <br> ![React-Leaflet](https://img.shields.io/badge/React--Leaflet-3F51B5?style=flat&logo=leaflet&logoColor=white) <br> ![Turf.js](https://img.shields.io/badge/Turf.js-5C2D91?style=flat&logo=javascript&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) <br> ![Mongoose](https://img.shields.io/badge/Mongoose-000000?style=flat&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) <br> ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) <br> ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) <br> ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+</div>
+
 ### 📚 Currently Learning
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</div>
+- Advanced state management in React  
+- Serverless architectures with Firebase functions  
+- Micro-frontend design and scalable backend ecosystems
 
 ### 🎯 Areas of Expertise
 
 - **Backend Development**
-  - Flask Routes & Controllers
-  - Session Management
-  - RESTful API Design
+  - RESTful API design with Express & Node.js
+  - Data modeling & schema management using Mongoose
+  - Firebase Admin SDK integration for secure server-side operations
 
 - **Frontend Development**
-  - Responsive Web Design
-  - User Interface Development
-  - Bootstrap Components
+  - Building dynamic user interfaces with React
+  - Responsive and interactive UI development using Tailwind CSS and Vite
+  - Real-time map integration with React-Leaflet and geospatial calculations with Turf.js
 
-- **Database Management**
-  - SQL Query Optimization
-  - Database Design
-  - Data Integrity
-  - Foreign Key Constraints
-
+- **Full Stack Integration**
+  - Seamless integration between the frontend and backend
+  - Continuous learning and implementation of modern development practices
+  - Optimizing user experiences through performance and usability enhancements 
 ### 📈 GitHub Stats
 
 <div align="center">
